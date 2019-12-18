@@ -11,3 +11,6 @@ Proposition:
     equipment. The Stryke! Scheduler is an online interface that allows for facilitated scheduling of 
     Ideaworks equipment. Stryke! Scheduler is the first of this software, because it is tailored 
     uniquely to the school’s wants and needs.
+
+
+TODO: Add website link
